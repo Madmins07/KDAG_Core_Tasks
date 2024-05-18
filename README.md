@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madmins07&label=Profile%20views&color=0e75b6&style=flat" alt="madmins07" /> </p>
 
 - 🌱 I’m proficient in **Machine learning, building regression models and neural networks**
-- 🌙 A coding enthusiast, you can follow me in codeforces, codechef and Atcoder: ***Madmins07**
+- 🌙 A coding enthusiast, you can follow me in codeforces, codechef and Atcoder: ***Madmins07***
 
 - 📫 How to reach me **madhavagarwal50@gmail.com**
 - 💫 My personal blogging site: **madblogs6.wordpress.com**
